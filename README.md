@@ -1,7 +1,7 @@
 # 💻 ict-innovation program
 
 📌 24.09.19 ~ <br>
-📌 교재 : 모두의 딥러닝<br>
+📌 교재 : 모두의 딥러닝<br><br>
 
 | DAY | CONTENT |
 |:--   |:--      |
